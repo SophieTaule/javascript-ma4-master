@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana;
+    font-size: 16px;
+    color: black;
+  }
+  
+  .container{
+    width: 800px;
+    margin: auto;
+    
+
+  }
+  /*.img-holder{
+    width: 40%;
+    display: inline-block;
+    padding: 20px
+  } */
+  
+  .information{
+    width: 250px;
+    display: inline-block;
+    padding: 20px;
+    outline: solid 0px black;
+    vertical-align: top;
+    box-shadow: 0px 0px 20px 8px rgba(0,0,0,0.42);
+    border-radius: 39px;
+    margin: 25px;
+    max-width: 250px;
+    min-height: 250px;
+  }
+  
+  span{
+    display: block;
+    margin-bottom: 10px;
+    padding: 20px;
+  }
